@@ -1,0 +1,47 @@
+TEXTO PITCH - DATAWIZE
+
+ 
+
+PT -BR 
+INTRODUÇÃO - "Aos funcionários que precisam lidar com a correção de dados manualmente dentro do Jira ou até mesmo os requisitantes que acham complicado/confuso inserir algumas improves, O que acham caso tudo fosse inserido em uma plataforma simples e intuitiva, que ajuda os usuários na criação de uma improve e os administradores a corrigir as mesmas? Apresentamos a solução que você estava esperando! Bem-vindo ao nosso {pré jira}, bem vindo ao DataWize!"
+
+ 
+
+PROBLEMA - "Sabemos que a correção e padronização de dados pode ser uma tarefa tediosa, demorada e não necessariamente manual.  No entanto, a necessidade de analisar as improvements inseridas pelos requisitantes para confirmar se todos os campos estão realmente corretos um a um é um obstáculo."
+
+ 
+
+SOLUÇÃO - "É aqui que o DataWize entra em ação! Somos uma plataforma que irá intermediar os dados entre o requisitor e o Jira, iremos permitir que você insira todas as informações necessárias em um único local e que permitirá uma análise mais rápida dos administradores. Nossa tecnologia inovadora verifica e valida automaticamente os dados, garantindo que eles estejam corretos e padronizados."
+
+ 
+
+BENEFÍCIOS - "Com a nossa plataforma online você economiza tempo, evita o desgaste mental e físico com atividades manuais e repetitivas e têm improvements padronizados para garantir a qualidade e consistências das informações."
+
+ 
+
+AÇÃO - "Experimente o DataWize e descubra como podemos ajudar a aumentar sua produtividade e qualidade de trabalho."
+
+ 
+
+ 
+
+ 
+
+ENG - US
+INTRODUCTION - "To employees who have to deal with manually correcting data within Jira or even requesters who find it complicated/confusing to enter some improves, how about if everything was entered in a simple and intuitive platform that helps users in creating an improve and administrators in correcting them? Here is the solution you have been waiting for! Welcome to our {pre jira}, welcome to DataWize!
+
+ 
+
+PROBLEM - "We know that correcting and standardizing data can be a tedious, time-consuming, and not necessarily manual task.  However, the need to review the improvements entered by requesters to confirm that all fields are actually correct one by one is an obstacle."
+
+ 
+
+SOLUTION - "This is where DataWize comes into play! We are a platform that will broker the data between the requisitioner and Jira, we will allow you to enter all the necessary information in one place and that will enable faster analysis by administrators. Our innovative technology automatically verifies and validates the data, ensuring that it is correct and standardized."
+
+ 
+
+BENEFITIS - "With our online platform you save time, avoid mental and physical wear and tear with manual and repetitive activities, and have standardized improvements to ensure the quality and consistencies of the information."
+
+ 
+
+ACTION - "Try DataWize and find out how we can help increase your productivity and quality of work."
