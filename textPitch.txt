@@ -28,20 +28,21 @@ AÇÃO - "Experimente o DataWize e descubra como podemos ajudar a aumentar sua p
  
 
 ENG - US
+BECK - 1
 INTRODUCTION - "To employees who have to deal with manually correcting data within Jira or even requesters who find it complicated/confusing to enter some improves, how about if everything was entered in a simple and intuitive platform that helps users in creating an improve and administrators in correcting them? Here is the solution you have been waiting for! Welcome to our {pre jira}, welcome to DataWize!
 
  
-
+PRATES - 3
 PROBLEM - "We know that correcting and standardizing data can be a tedious, time-consuming, and not necessarily manual task.  However, the need to review the improvements entered by requesters to confirm that all fields are actually correct one by one is an obstacle."
 
  
-
+BECK - 2 E O FINAL DO 3
 SOLUTION - "This is where DataWize comes into play! We are a platform that will broker the data between the requisitioner and Jira, we will allow you to enter all the necessary information in one place and that will enable faster analysis by administrators. Our innovative technology automatically verifies and validates the data, ensuring that it is correct and standardized."
 
  
-
+PRATES - 1
 BENEFITIS - "With our online platform you save time, avoid mental and physical wear and tear with manual and repetitive activities, and have standardized improvements to ensure the quality and consistencies of the information."
 
  
-
+PRATES - 2
 ACTION - "Try DataWize and find out how we can help increase your productivity and quality of work."
